@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning <b>UI Design</b>
+- 🌱 I’m currently studying <b>HTML, CSS, JavaScript, Wordpress and Python</b>
+
+
 <!--
 **Denise-FC/Denise-FC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
